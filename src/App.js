@@ -10,7 +10,9 @@ import {Route, Routes} from "react-router-dom"
 import Login from "./pages/Login"
 import Main from "./pages/Main";
 
-//npm i router-dom
+//Download dependencies first
+// npm install
+// npm i router-dom
 
 function App() {
   // set site title
